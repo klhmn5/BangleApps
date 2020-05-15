@@ -1170,5 +1170,18 @@
     {"name":"timer.app.js","url":"app.js"},
     {"name":"timer.img","url":"app-icon.js","evaluate":true}
   ]
+},
+
+{ "id": "testheart",
+  "name": "Testing Heart Rate Sesnor",
+  "shortName":"tiilt Heart",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "This a test of the heart rate app. Hi Natalie!",
+  "tags": "",
+  "storage": [
+    {"name":"testheart.app.js","url":"app.js"},
+    {"name":"testheart.img","url":"app-icon.js","evaluate":true}
+  ]
 }
 ]
