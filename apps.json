@@ -1171,7 +1171,6 @@
     {"name":"timer.img","url":"app-icon.js","evaluate":true}
   ]
 },
-
 { "id": "testheart",
   "name": "Testing Heart Rate Sesnor",
   "shortName":"tiilt Heart",
